@@ -17,5 +17,8 @@ public class Principal {
         System.out.println("Calculadora int " + total);
         System.out.println("Calculadora double " + totalDouble);
         System.out.println("Calculadora Integer " + totalInteger);
+
+        Carro fusca = new Carro();
+        fusca.mover();
     }
 }
