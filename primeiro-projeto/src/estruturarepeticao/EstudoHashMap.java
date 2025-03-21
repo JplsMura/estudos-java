@@ -1,4 +1,4 @@
-package estudo;
+package estruturarepeticao;
 
 import java.util.HashMap;
 import java.util.Map;

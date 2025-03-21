@@ -1,4 +1,4 @@
-package estudo;
+package estruturarepeticao;
 
 public class Utils {
 

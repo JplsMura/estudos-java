@@ -1,4 +1,4 @@
-package estudo;
+package estruturarepeticao;
 
 public class For {
     public static void main(String[] args) {

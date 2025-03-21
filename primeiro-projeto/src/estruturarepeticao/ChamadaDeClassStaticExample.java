@@ -1,4 +1,4 @@
-package estudo;
+package estruturarepeticao;
 
 public class ChamadaDeClassStaticExample {
     public static void main(String[] args) {
